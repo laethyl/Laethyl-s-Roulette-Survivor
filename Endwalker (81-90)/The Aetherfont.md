@@ -16,7 +16,7 @@
 ##### Octomammoth
 
 - OCTOSTROKE - Find the one platform with no tentacles in front of it
-- SALINE SPIT - Blue balls on platforms that explode. Be between platforms.
-- TIDAL BREATH - Boss smokes a full half of the room. Check the flank marker and be behind boss.
-- TELEKINESIS - Be on the platform not targetted by an orange tether / eventual red laser
-- BREATHSTROKE: Combines OCTOSTROKE and TIDAL BREATH into a single attack, except the safe platform will have a single Tentacle that further reduces the safe area to stand.
+- SALINE SPIT - Blue balls on platforms that explode. Be between platforms
+- TIDAL BREATH - Boss smokes a full half of the room. Check the flank marker and be behind boss
+- TELEKINESIS - Crystals will be lifted up outside the arena, be off of the platforms they are by
+- BREATHSTROKE: Combines OCTOSTROKE and TIDAL BREATH into a single attack, except the safe platform will have a single tentacle that further reduces the safe area to stand
