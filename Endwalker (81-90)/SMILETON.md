@@ -1,4 +1,4 @@
-# SMILETON (aka Smile-town!)
+# Smileton (aka Smile-town!)
 
 ##### Face
 
