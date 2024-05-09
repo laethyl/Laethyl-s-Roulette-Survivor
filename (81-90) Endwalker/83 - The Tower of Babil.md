@@ -2,9 +2,10 @@
 
 ##### Barnabas
 
-- GROUND AND POUND - Non-telegraphed attack, watch for his windup
-- DYNAMIC POUND - You will be pulled TOWARD the line AoE if your symbol does not match the symbol in the AoE and pushed AWAY if it does.
-- DYNAMIC SCRAPLINE - Like POUND, you will be pulled if your symbol matches, repelled if not
+- GROUND AND POUND - Watch for his windup, telegraphed late
+- Opposite symbols attract, same repel
+  - DYNAMIC POUND - Go away from the line AoE if your symbol isn't the symbol in the AoE, otherwise go towards it, but not in.
+  - DYNAMIC SCRAPLINE - Like POUND only a circle, you will be repelled if your symbol matches, pushed if not
 - Avoid purple orbs
 
 ##### Lugae
