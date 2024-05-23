@@ -13,5 +13,6 @@
 ##### Inferno
 
 - Kill adds
-  - The other two will tether, kill before they catch and incapacitate their target
+  - Only show up if your dps is low
   - Packer will charge up the boss
+  - The other two will tether, kill before they catch and incapacitate their target

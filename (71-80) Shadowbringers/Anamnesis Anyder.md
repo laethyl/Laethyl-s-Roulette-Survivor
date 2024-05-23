@@ -15,7 +15,8 @@
 
 ##### Rukshs Dheem
 
-- Stay out of water columns boss puts on the ground
-  - When hands come out of these, get behind a hand that faces away
+- When hands come out of water columns, get behind a hand that faces away
+  - When they all face in, look for the gap in the hands
 - Stand on bubbling grates to reduce add spawns
+  - Hands will not reach to far gates
   - Kill remaining adds
