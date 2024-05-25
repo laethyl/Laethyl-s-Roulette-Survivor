@@ -7,6 +7,7 @@
 - Kite cloud if tethered
 
 ##### Trash
+
 - Dragging mobs into the light will debuff them
 
 ##### Winged Lion
