@@ -15,4 +15,4 @@
 
 - Quickly kill adds
   - These cause squares to explode later
-- Esuna the bomb debuf - AETHEROCHECMICAL EXPLOSIVE
+- Esuna the bomb debuff - AETHEROCHEMICAL EXPLOSIVE
