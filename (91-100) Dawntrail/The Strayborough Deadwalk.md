@@ -4,6 +4,7 @@
 
 - Never be under floating add
 - Be between adds from edge, they'll walk across
+  - If they touch you, you will be bound
 
 ##### Jack-in-the-Pot
 

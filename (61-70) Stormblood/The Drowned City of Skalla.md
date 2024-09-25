@@ -2,8 +2,8 @@
 
 ##### Kelpie
 
-- HYDRO PULL - Be close, PUSHES YOU AWAY
-- HYDRO PUSH - Be far away, PULLS YOU IN
+- HYDRO PULL - Be far away, PULLS YOU IN
+- HYDRO PUSH - Be close, PUSHES YOU AWAY
 - BLOODY PUDDLE - Drop it on the edge, kite resulting ball
 
 ##### The Old One
