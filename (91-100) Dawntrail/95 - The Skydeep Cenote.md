@@ -16,5 +16,6 @@
 
 - Stay near center at al times, but avoid tankbuster
 - STONECARVER - Boss will wreck half the room, then the other
-- Stand very near large blue circles, they knockback.
-  - The diagonals are easy, but line up on the centerline of the arena for the center circle and be ready for STONECARVER
+  - Keep an eye on its fists, one will light up, and the other lights up soon after. The fist first lit will wreck its half first
+- Stand very near large blue circles, they knockback
+  - The diagonals are easy, but line up on the back right or left of the center circle to dodge STONECARVER
