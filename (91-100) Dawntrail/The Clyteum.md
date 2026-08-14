@@ -15,8 +15,8 @@
 - PUPPET STRINGS - Adds do the following: (adds have yellow crosses on top of them)
   - Large add - long cone AoE from add
   - Small add - small circle AoEs
-    - These overlap a good deal
     - Get behind boss after for VOID DARK
 - STRING UP - Keep moving or be incapacitated
 - PUPPET MASTERY - Boss moves adds, then they attack
   - Stay by a big one, then adjust
+  - **These overlap a good deal
