@@ -30,8 +30,8 @@
 
 ##### Shinryu Paradox
 
-- COSMIC BREATH - Jump in the hole
-- COSMIC TAIL - Use teleportal to bounce back up
+- COSMIC BREATH - Down - Jump in the hole
+- COSMIC TAIL - Up - Use teleportal to bounce back up
 - CLOAK OF TWILIGHT - Be on platform that matches your color
   - Yellow up, purple down
 - Countdown above your head has one of three options:
