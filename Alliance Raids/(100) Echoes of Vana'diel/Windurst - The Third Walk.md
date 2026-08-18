@@ -23,9 +23,7 @@
 - Purple balls explode when they reach the end of their route
 - WHEEL OF IMPREGNABILITY - be out of orange ring
   - Crash boss for donut after this - he moves for good measure
-
 - Add Phase: Put your back to a wall. You can be fall off and be knocked off by knockback
-
 - Purple balls again, go to the side where balls start closest together
 - During starburst, watch boss's glowy hand for a half-room cleave
 - Quickly leave stack towers after they hit, you'll be grav'ed and they blow up

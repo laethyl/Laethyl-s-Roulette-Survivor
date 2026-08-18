@@ -27,4 +27,4 @@
 - IMPLOSION - Be away from the boss AND on the side away from the glowing hand
 - Shapes with spikes will explode in the direction of the spikes
   - Be IN a shape but dont let spikes point at you
-- Telegraphed knowckbacks will come one after the other, line up so both can hit you into safe areas
+- Telegraphed knockbacks will come one after the other, line up so both can hit you into safe areas
