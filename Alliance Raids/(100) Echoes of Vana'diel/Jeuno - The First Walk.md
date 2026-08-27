@@ -11,7 +11,7 @@
 - Be in front of boss when it raises its tail
 - Be FAR outside of hitbox when boss flies up and FEET are glowing
   - Be in hitbox and under boss's head if headglows
-  - After fire clears, be far from boss for another circle AoE
+  - After fire clears, be FAR from boss for another circle AoE
 - ABSOLUTE TERROR - Be at the arena sides, Center-line AoE
 - WINGED TERROR - Be in center
 

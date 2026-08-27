@@ -1,6 +1,6 @@
 # AAC Heavyweight: M2
 
-##### The Xtremes 
+##### The Xtremes
 
 - Red Hot
   - Drop orange symbols and the cone away from others, dodge fire.
